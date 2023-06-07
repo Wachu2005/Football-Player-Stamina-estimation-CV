@@ -1,5 +1,14 @@
 # Football Player Stamina Estimation using CV
 
+## DEMO
+
+
+![Alt Text](https://github.com/Wachu2005/Football-Player-Stamina-estimation-CV/blob/master/sample_gif.gif)
+
+
+## Discription
+
+
 Objective: To develop an object detection system that can accurately calculate the stamina of football players based on camera video from a match.
 
 Architecture Overview:
@@ -28,7 +37,4 @@ Display and storage of results: The stamina values for each player were displaye
 
 Conclusion: This object detection system accurately calculates the stamina of football players based on camera video from a match. It uses state-of-the-art object detection models, object tracking, and customized stamina calculation scripts to provide real-time and accurate information about the performance of individual players over time.
 
-## Samples
 
-
-![Alt Text](https://github.com/Wachu2005/Football-Player-Stamina-estimation-CV/blob/master/ezgif.com-video-to-gif%20(2).gif)
