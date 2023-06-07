@@ -38,3 +38,22 @@ Display and storage of results: The stamina values for each player were displaye
 Conclusion: This object detection system accurately calculates the stamina of football players based on camera video from a match. It uses state-of-the-art object detection models, object tracking, and customized stamina calculation scripts to provide real-time and accurate information about the performance of individual players over time.
 
 
+## Tech Stack
+
+**Python**
+
+**OpenCV**
+
+**ByteTrack**
+
+**Google Colab**
+
+**RoboFlow**
+
+**Jupyter Notebook**
+
+**PyTorch**
+
+**Pandas**
+
+**Numpy**
