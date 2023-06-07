@@ -31,6 +31,4 @@ Conclusion: This object detection system accurately calculates the stamina of fo
 ## Samples
 
 
-![Imgur Image](https://imgur.com/a/Zqd8DYt)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Zqd8DYt"><a href="//imgur.com/Zqd8DYt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Alt Text](ezgif.com-video-to-gif (2).gif)
