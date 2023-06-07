@@ -31,4 +31,4 @@ Conclusion: This object detection system accurately calculates the stamina of fo
 ## Samples
 
 
-![Alt Text](ezgif.com-video-to-gif (2).gif)
+![Alt Text](https://github.com/Wachu2005/Football-Player-Stamina-estimation-CV/blob/master/ezgif.com-video-to-gif%20(2).gif)
